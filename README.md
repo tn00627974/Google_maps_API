@@ -4,7 +4,7 @@
 這個程式使用Colabn notebook編輯器 與 Google Maps API 搜尋指定位置附近的飲料店。您可以輸入您的位置坐標，設定搜尋半徑和關鍵詞，然後程式將返回附近的飲料店的名稱、地址和評分。
 
 # 使用前提 需申請google maps api
-### **步驟一：API 的申請、爬 Google Map 店家資料、搞懂 API 限制**
+### **API 的申請、爬 Google Map 店家資料、搞懂 API 限制**
 
 - 在這個實際案例中，我會用 Google Map API 來取得店家資料，並且存成可以分析的資料形式 (csv)
 - 首先，在這之前，需要申請 Google Map API，這個過程可以讓你了解 Google 如何把 API 授權給我們
